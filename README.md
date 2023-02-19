@@ -6,23 +6,10 @@ The data I propose to visualize for my project is from https://www.cms.gov/Resea
 
 ## Prototypes
 
-
 I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
 
 [![image](https://user-images.githubusercontent.com/20228364/219960430-5923a04c-ffe6-4478-b17b-d85ad393068b.png)](https://vizhub.com/khateraAlizada/eefbd6bb9e054de9ba9fd58e3f142bf9)
 
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/khateraAlizada/eefbd6bb9e054de9ba9fd58e3f142bf9)
-
-(please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments, and link to them)
-
-You can make images into links like this:
-
-```
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
-```
-
-
-Also, you can study the [source](https://raw.githubusercontent.com/curran/dataviz-project-template-proposal/master/README.md) to figure out Markdown formatting. You can use the GitHub built-in editor to edit the document.
 
 ## Questions & Tasks
 
@@ -38,8 +25,7 @@ The following tasks and questions will drive the visualization and interaction d
 
 ## Sketches
 ![sketchProposal](https://user-images.githubusercontent.com/20228364/219959375-a033fec8-33d8-460c-b4e5-a0589371d5f2.png)
-(insert one or more hand-drawn sketches of interactive visualizations that you imagine)
-(describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
+The sketch display per capital private health insurance expenditure for males and females between ages of 0-18 years for hospital care. It is hypothetical data. It shows that hospital care expenses increased for each group over time. 
 
 ## Open Questions
 
