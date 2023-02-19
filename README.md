@@ -10,7 +10,7 @@ I’ve created a proof of concept visualization of this data. It's a ... and it 
 
 [![image](https://user-images.githubusercontent.com/20228364/219960430-5923a04c-ffe6-4478-b17b-d85ad393068b.png)](https://vizhub.com/khateraAlizada/eefbd6bb9e054de9ba9fd58e3f142bf9)
 
-[![image](https://user-images.githubusercontent.com/20228364/219963275-523207c5-4195-43f6-8ff0-4712e47f178a.png)]|(https://vizhub.com/khateraAlizada/f61c94f3d98840feb5b0f85af6823c21?edit=files&file=scatterPlot.js)
+[![image](https://user-images.githubusercontent.com/20228364/219963275-523207c5-4195-43f6-8ff0-4712e47f178a.png)](https://vizhub.com/khateraAlizada/f61c94f3d98840feb5b0f85af6823c21?file=scatterPlot.js)
 
 ## Questions & Tasks
 
