@@ -6,9 +6,9 @@ The data I propose to visualize for my project is from https://www.cms.gov/Resea
 
 ## Prototypes
 
-I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
+I’ve created a proof of concept visualization of this data. It's a scatter plot and it shows out of pocket prescription drug expenses for ages 19-44 from 2002 - 2014 for males, females and total population groups. Between 2004 - 2008 per capital out of pocket prescription drug expenditure increased for all population groups. 
 
-[![image](https://user-images.githubusercontent.com/20228364/219960430-5923a04c-ffe6-4478-b17b-d85ad393068b.png)](https://vizhub.com/khateraAlizada/eefbd6bb9e054de9ba9fd58e3f142bf9)
+
 
 [![image](https://user-images.githubusercontent.com/20228364/219963275-523207c5-4195-43f6-8ff0-4712e47f178a.png)](https://vizhub.com/khateraAlizada/f61c94f3d98840feb5b0f85af6823c21?file=scatterPlot.js)
 
