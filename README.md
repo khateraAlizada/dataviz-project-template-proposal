@@ -6,7 +6,9 @@ The data I propose to visualize for my project is from https://www.cms.gov/Resea
 
 ## Prototypes
 
+
 I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
+
 
 [![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/khateraAlizada/eefbd6bb9e054de9ba9fd58e3f142bf9)
 
@@ -34,7 +36,7 @@ The following tasks and questions will drive the visualization and interaction d
  
 
 ## Sketches
-
+![sketchProposal](https://user-images.githubusercontent.com/20228364/219959375-a033fec8-33d8-460c-b4e5-a0589371d5f2.png)
 (insert one or more hand-drawn sketches of interactive visualizations that you imagine)
 (describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
 
