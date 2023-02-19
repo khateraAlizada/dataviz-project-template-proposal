@@ -2,7 +2,7 @@
 
 ## Data
 
-The data I propose to visualize for my project is ...
+The data I propose to visualize for my project is from https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/NationalHealthExpendData/Age-and-Gender. Personal health care (PHC) for difference services( 'Dental Services', 'Durable Medical Equipment', 'Home Health Care', 'Hospital Care', 'Nursing Care Facilities and Continuing Care Retirement Communities', 'Other Health Residential and Personal Care', 'Other Nondurable Medical Products', 'Other Professional Services', 'Physician and Clinical Services', 'Prescription Drugs', 'Total Personal Health Care', 'Service')and different sources of funding (private health insurance, Medicare, Medicaid, out-of-pocket, and all other payers and programs) is available for five age groups: 0-18, 19-44, 45-64, 65-84, and 85 and over, for different gender groups males and females and total for even years from 2002 through 2014.
 
 ## Prototypes
 
@@ -25,10 +25,13 @@ Also, you can study the [source](https://raw.githubusercontent.com/curran/datavi
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
- * (insert your question or task here) How does the X vary over time?
- * (insert your question or task here) Is there any correlation between X and Y?
- * (insert your question or task here) Are there interesting spatial patterns in X?
- * (insert your question or task here) How many X are there across different Y?
+ * As time increase total per capital health expenses will increase. 
+ * As population age group increases, their health expenses will also increase.
+ * What is the difference between males and females per capita health spending in a given year? Children (0-18)?
+ * How does male children and female children total health care expenditure differ?
+ * How does working-age (19-64) males and females per capita health spending differ?
+ * What percentage of health care spending accounted for females 65 and older and what percentage of 65 and older population are females?
+ 
 
 ## Sketches
 
@@ -37,8 +40,8 @@ The following tasks and questions will drive the visualization and interaction d
 
 ## Open Questions
 
-(describe any fear, uncertainty, or doubt you’re having about the feasibility of implementing the sketched system. For example, “I’m not sure where to get the geographic shapes to build a map from this data” or “I don’t know how to resolve the codes to meaningful names” … Feel free to delete this section if you’re confident.)
+I am not sure how to display the data from a specific population group. For example, displaying  health expenses for a given gender group, for a given service, for a given payer and a given age group in a given year. 
 
 ## Milestones
 
-(for each week, estimate what would be accomplised)
+Each week I will try to focus on one task and will try to visualize it. 
