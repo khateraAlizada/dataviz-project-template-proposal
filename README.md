@@ -6,7 +6,7 @@ The data I propose to visualize for my project is from https://www.cms.gov/Resea
 
 ## Prototypes
 
-I’ve created a proof of concept visualization of this data. It's a scatter plot and it shows out of pocket prescription drug expenses for ages 19-44 from 2002 - 2014 for males, females and total population groups. Between 2004 - 2008 per capital out of pocket prescription drug expenditure increased for all population groups. 
+I’ve created a proof of concept visualization of this data. It's a scatter plot and it shows out of pocket prescription drug expenses for ages 19-44 from 2002 - 2014 for males, females and total (blue, yellow and red dots) population groups respectively. Between 2004 - 2008 per capital out of pocket prescription drug expenditure increased for all population groups.
 
 
 
