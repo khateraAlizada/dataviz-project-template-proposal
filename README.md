@@ -9,6 +9,7 @@ The data I propose to visualize for my project is from https://www.cms.gov/Resea
 
 I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
 
+[![image (https://user-images.githubusercontent.com/20228364/219960430-5923a04c-ffe6-4478-b17b-d85ad393068b.png)](https://vizhub.com/khateraAlizada/eefbd6bb9e054de9ba9fd58e3f142bf9)
 
 [![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/khateraAlizada/eefbd6bb9e054de9ba9fd58e3f142bf9)
 
