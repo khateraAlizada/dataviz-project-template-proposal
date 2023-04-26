@@ -30,8 +30,7 @@ The sketch display per capital private health insurance expenditure for males an
 
 ## Open Questions
 
-I am not sure how to display the data from a specific population group. For example, displaying  health expenses for a given gender group, for a given service, for a given payer and a given age group in a given year. 
+I wanted to display the data from a specific population group. For example, displaying  health expenses for a given gender group, for a given service, for a given payer and a given age group over time. I achieved my goal to display what I wanted to display at the beginning of the project. In this report, I will display a step by step various visualizations that helped me in accomplishing the final goal. 
 
-## Milestones
+Initially I uploaded my data in github gist. 
 
-Each week I will try to focus on one task and will try to visualize it. 
