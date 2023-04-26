@@ -34,3 +34,5 @@ I wanted to display the data from a specific population group. For example, disp
 
 Initially I uploaded my data in github gist. 
 
+[![image](https://user-images.githubusercontent.com/20228364/219963275-523207c5-4195-43f6-8ff0-4712e47f178a.png)]([https://gist.githubusercontent.com/khateraAlizada/1ad0d265acbd1d202666ec610d998314/raw/b9200cf2b0ba3dc7fa8fc6b63fd93b80a1a7e6f7/healthCareCostGrowth.csv])
+
