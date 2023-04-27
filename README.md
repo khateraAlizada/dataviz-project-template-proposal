@@ -48,6 +48,6 @@ I made certain changes in my data to make it in the correct format. To display a
 
 The first data viz I created was a scatter plot. The y axis displays health expenses. The x axis displays year. The dots display gender column (male, female and total). Because there are many rows for each attributes of the gender column. The scatter plot was hard to understand. 
 
-[![scatterplot](https://vizhub.com/khateraAlizada/eefbd6bb9e054de9ba9fd58e3f142bf9?edit=files&file=scatterPlot.js)](https://user-images.githubusercontent.com/20228364/234728700-15925525-a871-4705-a366-2a9a2b1e36ef.png)
+[![scatterplot](https://user-images.githubusercontent.com/20228364/234728700-15925525-a871-4705-a366-2a9a2b1e36ef.png)](https://vizhub.com/khateraAlizada/eefbd6bb9e054de9ba9fd58e3f142bf9?edit=files&file=scatterPlot.js)
 
 
