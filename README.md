@@ -55,8 +55,11 @@ The first data viz I created was a scatter plot without labels.[![scatterplotWit
 Then I created a scatter plot with labels for the axis. The y axis displays health expenses. The x axis displays year. The different colorr dots display gender column (male, female and total). Because there are many rows for each attributes of the gender column. The scatter plot was hard to understand. 
 
 [![scatterplot](https://user-images.githubusercontent.com/20228364/234728700-15925525-a871-4705-a366-2a9a2b1e36ef.png)](https://vizhub.com/khateraAlizada/eefbd6bb9e054de9ba9fd58e3f142bf9?edit=files&file=scatterPlot.js)
-
+I applied different symbols to represents the attributes in the scatter plot. 
 [![Scatter plot with sysmbols](https://user-images.githubusercontent.com/20228364/235012243-7887cb9f-77fc-4859-8dc0-786cb7e824fe.png)]( https://vizhub.com/khateraAlizada/76b11a46cc2a435b98c5f1fc3f31b297?mode=full  )
+
+Scatter plot with hovering capability
+[![Scatter plot with hovering capability ](https://user-images.githubusercontent.com/20228364/235012830-fb2ac1e8-98bf-4cec-ab16-cdc5c23dc23f.png)](  https://vizhub.com/khateraAlizada/af47c91f5c6d414a83696c91b0fe83f7?mode=full )
 
 I also created a line graph. It only displayed one line.
 
@@ -65,6 +68,9 @@ I also created a line graph. It only displayed one line.
 I created line chart with multiple lines
 
 [![line chart multiple line](https://user-images.githubusercontent.com/20228364/235011962-0a0a1286-d97c-40ea-a3b8-fa68ea1f2038.png)](https://vizhub.com/khateraAlizada/95ca53d18e9044c194d1c61551724f8a )
+
+
+
 
 
 
