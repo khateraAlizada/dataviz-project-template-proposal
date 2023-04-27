@@ -44,7 +44,9 @@ I wanted to display the data from a specific population group. For example, disp
 Initially I uploaded my data in github gist. 
 
 [![originaldata](https://user-images.githubusercontent.com/20228364/234727162-69994048-317c-44f9-8365-36d6620378bc.png)](https://gist.githubusercontent.com/khateraAlizada/1ad0d265acbd1d202666ec610d998314/raw/b9200cf2b0ba3dc7fa8fc6b63fd93b80a1a7e6f7/healthCareCostGrowth.csv)
-I made certain changes in my dataset to make it in the correct format. Initially the column names 2002 -2014 started with a number. I changed these column names because the column names should not start with numerical values. I added a y to make them start with a letter.
+I made certain changes in my dataset to make it in the correct format. Initially the column names 2002 -2014 started with a number.
+[![year](https://user-images.githubusercontent.com/20228364/234732334-718cf6e4-7957-4ac7-ab3d-b7b8307f1845.png)](https://vizhub.com/khateraAlizada/9e96135ceffb4a48945598da94a5b88e?mode=full)
+I changed these column names because the column names should not start with numerical values. I added a y to make them start with a letter.
 [![uploadinData](https://user-images.githubusercontent.com/20228364/234731159-2204acb8-665c-4c75-a532-ebf771c966a5.png)](https://vizhub.com/khateraAlizada/7ce463b8b74e437aad7141396ba72725)
 
 
