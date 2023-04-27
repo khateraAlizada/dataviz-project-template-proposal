@@ -44,15 +44,17 @@ I wanted to display the data from a specific population group. For example, disp
 Initially I uploaded my data in github gist. 
 
 [![originaldata](https://user-images.githubusercontent.com/20228364/234727162-69994048-317c-44f9-8365-36d6620378bc.png)](https://gist.githubusercontent.com/khateraAlizada/1ad0d265acbd1d202666ec610d998314/raw/b9200cf2b0ba3dc7fa8fc6b63fd93b80a1a7e6f7/healthCareCostGrowth.csv)
-I made certain changes in my dataset to make it in the correct format. Initially the column names 2002 -2014 started with a number.
-[![year](https://user-images.githubusercontent.com/20228364/234732334-718cf6e4-7957-4ac7-ab3d-b7b8307f1845.png)](https://vizhub.com/khateraAlizada/9e96135ceffb4a48945598da94a5b88e?mode=full)
-I changed these column names because the column names should not start with numerical values. I added a y to make them start with a letter.
+I made certain changes in my dataset to make it in the correct format. Initially the column names 2002 -2014 started with a number. I changed these column names because the column names should not start with numerical values. I added a y to make them start with a letter.
 [![uploadinData](https://user-images.githubusercontent.com/20228364/234731159-2204acb8-665c-4c75-a532-ebf771c966a5.png)](https://vizhub.com/khateraAlizada/7ce463b8b74e437aad7141396ba72725)
 
 
 To display a time series data. I created a year column instead of having separate column for each year. The year column includes all even years between 2002-2014. In addition, I created another column expenditure that stores health expenses estimates. [![reformated dataset](https://user-images.githubusercontent.com/20228364/234731582-e5853cd1-e683-4c5b-926d-d1bf5804186c.png)](https://gist.githubusercontent.com/khateraAlizada/2365f9474eab3f24f42ac5fbe3c18f08/raw/55d654aecbc83d67d25b55b3e2837fbfe349b23d/healthExpensesYear.csv)
 
-The first data viz I created was a scatter plot. The y axis displays health expenses. The x axis displays year. The different colorr dots display gender column (male, female and total). Because there are many rows for each attributes of the gender column. The scatter plot was hard to understand. 
+The first data viz I created was a scatter plot. 
+[![scatterplotWithNoLabels](https://user-images.githubusercontent.com/20228364/235009749-3a8025d3-8b85-4bf0-94f9-87c1f7044044.png)]
+(https://vizhub.com/khateraAlizada/472bb9b271114ea6a14102fe2880cef9?edit=files)
+
+Then I created a scatter plot with labels for the axis. The y axis displays health expenses. The x axis displays year. The different colorr dots display gender column (male, female and total). Because there are many rows for each attributes of the gender column. The scatter plot was hard to understand. 
 
 [![scatterplot](https://user-images.githubusercontent.com/20228364/234728700-15925525-a871-4705-a366-2a9a2b1e36ef.png)](https://vizhub.com/khateraAlizada/eefbd6bb9e054de9ba9fd58e3f142bf9?edit=files&file=scatterPlot.js)
 
