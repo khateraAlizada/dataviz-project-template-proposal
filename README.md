@@ -61,6 +61,10 @@ I applied different symbols to represents the attributes in the scatter plot.
 Scatter plot with hovering capability
 [![Scatter plot with hovering capability ](https://user-images.githubusercontent.com/20228364/235012830-fb2ac1e8-98bf-4cec-ab16-cdc5c23dc23f.png)](  https://vizhub.com/khateraAlizada/af47c91f5c6d414a83696c91b0fe83f7?mode=full )
 
+I created a scatterplot with dropdown menue. 
+
+[![Scatter Plot with dropdown menue]( https://user-images.githubusercontent.com/20228364/235013423-0f67f304-fdf1-4516-b0eb-b848aacd6537.png)]( https://vizhub.com/khateraAlizada/c6e9a66745984c9fa3445c20d014bd10?mode=full  )
+
 I also created a line graph. It only displayed one line.
 
 [![line chart](https://user-images.githubusercontent.com/20228364/235011543-afa18ec8-0f95-48cf-a680-973adc90ca96.png)](   https://vizhub.com/khateraAlizada/b0f45aae21f04eda909ca4960abfd804?edit=files)
@@ -69,10 +73,14 @@ I created line chart with multiple lines
 
 [![line chart multiple line](https://user-images.githubusercontent.com/20228364/235011962-0a0a1286-d97c-40ea-a3b8-fa68ea1f2038.png)](https://vizhub.com/khateraAlizada/95ca53d18e9044c194d1c61551724f8a )
 
+ 
 
 
 
 
 
+Multiple Line Chart representing health care expenses estimates for males, females and total (males + female)
+[![line chart multiple line](https://user-images.githubusercontent.com/20228364/235013875-18b2f244-6e3a-40bf-9f98-d53033e61c7e.png)](https://vizhub.com/khateraAlizada/83ad4b27fe6b4ec993540153e98a4222?mode=full   )
 
-[![line chart multiple line]()](   )
+
+[![line chart multiple line]()]( https://vizhub.com/khateraAlizada/a260967f52e84d8b8abbef710592c99b?mode=full  )
