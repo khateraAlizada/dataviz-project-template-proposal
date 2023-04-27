@@ -52,7 +52,7 @@ To display a time series data. I created a year column instead of having separat
 
 The first data viz I created was a scatter plot. 
 [![scatterplotWithNoLabels](https://user-images.githubusercontent.com/20228364/235009749-3a8025d3-8b85-4bf0-94f9-87c1f7044044.png)]
-([https://vizhub.com/khateraAlizada/472bb9b271114ea6a14102fe2880cef9?edit=files](https://vizhub.com/khateraAlizada/472bb9b271114ea6a14102fe2880cef9?edit=files&mode=full))
+(https://vizhub.com/khateraAlizada/472bb9b271114ea6a14102fe2880cef9?edit=files)
 
 Then I created a scatter plot with labels for the axis. The y axis displays health expenses. The x axis displays year. The different colorr dots display gender column (male, female and total). Because there are many rows for each attributes of the gender column. The scatter plot was hard to understand. 
 
