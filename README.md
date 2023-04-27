@@ -56,7 +56,7 @@ Then I created a scatter plot with labels for the axis. The y axis displays heal
 
 [![scatterplot](https://user-images.githubusercontent.com/20228364/234728700-15925525-a871-4705-a366-2a9a2b1e36ef.png)](https://vizhub.com/khateraAlizada/eefbd6bb9e054de9ba9fd58e3f142bf9?edit=files&file=scatterPlot.js)
 
-[![Scatter plot with sysmbols](https://user-images.githubusercontent.com/20228364/235012243-7887cb9f-77fc-4859-8dc0-786cb7e824fe.png")]( https://vizhub.com/khateraAlizada/76b11a46cc2a435b98c5f1fc3f31b297?mode=full  )
+[![Scatter plot with sysmbols](https://user-images.githubusercontent.com/20228364/235012243-7887cb9f-77fc-4859-8dc0-786cb7e824fe.png)]( https://vizhub.com/khateraAlizada/76b11a46cc2a435b98c5f1fc3f31b297?mode=full  )
 
 I also created a line graph. It only displayed one line.
 
