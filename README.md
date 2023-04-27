@@ -34,5 +34,7 @@ I wanted to display the data from a specific population group. For example, disp
 
 Initially I uploaded my data in github gist. 
 
-[![originaldata](https://user-images.githubusercontent.com/20228364/234725652-77d2606b-e610-433a-8386-d2b7fe56fd42.png)](https://gist.githubusercontent.com/khateraAlizada/1ad0d265acbd1d202666ec610d998314/raw/b9200cf2b0ba3dc7fa8fc6b63fd93b80a1a7e6f7/healthCareCostGrowth.csv)
-I made certain changes in my data to make it in the correct format. To display a time series data. I created a year column instead of having separate column for each year. The year column includes health expenses estimates from 2002-2014 for all the even years in this time period. Modified [data](https://gist.githubusercontent.com/khateraAlizada/2365f9474eab3f24f42ac5fbe3c18f08/raw/55d654aecbc83d67d25b55b3e2837fbfe349b23d/healthExpensesYear.csv)
+[![originaldata](https://user-images.githubusercontent.com/20228364/234727162-69994048-317c-44f9-8365-36d6620378bc.png)](https://gist.githubusercontent.com/khateraAlizada/1ad0d265acbd1d202666ec610d998314/raw/b9200cf2b0ba3dc7fa8fc6b63fd93b80a1a7e6f7/healthCareCostGrowth.csv)
+I made certain changes in my data to make it in the correct format. To display a time series data. I created a year column instead of having separate column for each year. The year column includes all even years between 2002-2014. In addition, I created another column expenditure that stores health expenses estimates. [data](https://gist.githubusercontent.com/khateraAlizada/2365f9474eab3f24f42ac5fbe3c18f08/raw/55d654aecbc83d67d25b55b3e2837fbfe349b23d/healthExpensesYear.csv)
+
+
