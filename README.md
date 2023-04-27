@@ -48,7 +48,7 @@ I made certain changes in my dataset to make it in the correct format. Initially
 [![uploadinData](https://user-images.githubusercontent.com/20228364/234731159-2204acb8-665c-4c75-a532-ebf771c966a5.png)](https://vizhub.com/khateraAlizada/7ce463b8b74e437aad7141396ba72725)
 
 
-To display a time series data. I created a year column instead of having separate column for each year. The year column includes all even years between 2002-2014. In addition, I created another column expenditure that stores health expenses estimates. [Click here to see the reformated dataset](https://gist.githubusercontent.com/khateraAlizada/2365f9474eab3f24f42ac5fbe3c18f08/raw/55d654aecbc83d67d25b55b3e2837fbfe349b23d/healthExpensesYear.csv)
+To display a time series data. I created a year column instead of having separate column for each year. The year column includes all even years between 2002-2014. In addition, I created another column expenditure that stores health expenses estimates. [![reformated dataset]("https://user-images.githubusercontent.com/20228364/234731582-e5853cd1-e683-4c5b-926d-d1bf5804186c.png")](https://gist.githubusercontent.com/khateraAlizada/2365f9474eab3f24f42ac5fbe3c18f08/raw/55d654aecbc83d67d25b55b3e2837fbfe349b23d/healthExpensesYear.csv)
 
 The first data viz I created was a scatter plot. The y axis displays health expenses. The x axis displays year. The different colorr dots display gender column (male, female and total). Because there are many rows for each attributes of the gender column. The scatter plot was hard to understand. 
 
