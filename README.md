@@ -60,4 +60,9 @@ I also created a line graph. It only displayed one line.
 
 [![line chart](https://user-images.githubusercontent.com/20228364/235011543-afa18ec8-0f95-48cf-a680-973adc90ca96.png)](   https://vizhub.com/khateraAlizada/b0f45aae21f04eda909ca4960abfd804?edit=files)
 
+I created line chart with multiple lines
 
+[![line chart multiple line](https://user-images.githubusercontent.com/20228364/235011962-0a0a1286-d97c-40ea-a3b8-fa68ea1f2038.png
+)](  https://vizhub.com/khateraAlizada/95ca53d18e9044c194d1c61551724f8a )
+
+[![line chart multiple line]()](   )
