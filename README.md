@@ -53,6 +53,10 @@ To display a time series data. I created a year column instead of having separat
 Line Charts:
 I also created a line graph. It only displayed one line.
 
+[![line chart multiple line](https://user-images.githubusercontent.com/20228364/235011962-0a0a1286-d97c-40ea-a3b8-fa68ea1f2038.png)](https://vizhub.com/khateraAlizada/95ca53d18e9044c194d1c61551724f8a )
+
+I created line chart with multiple lines
+
 [![line chart](https://user-images.githubusercontent.com/20228364/235011543-afa18ec8-0f95-48cf-a680-973adc90ca96.png)](   https://vizhub.com/khateraAlizada/b0f45aae21f04eda909ca4960abfd804?edit=files)
 
 Multiple Line Chart representing health care expenses estimates for different age groups
@@ -79,9 +83,7 @@ I created a scatterplot with dropdown menue.
 
 [![Scatter Plot with dropdown menue]( https://user-images.githubusercontent.com/20228364/235013423-0f67f304-fdf1-4516-b0eb-b848aacd6537.png)]( https://vizhub.com/khateraAlizada/c6e9a66745984c9fa3445c20d014bd10?mode=full  )
 
-I created line chart with multiple lines
 
-[![line chart multiple line](https://user-images.githubusercontent.com/20228364/235011962-0a0a1286-d97c-40ea-a3b8-fa68ea1f2038.png)](https://vizhub.com/khateraAlizada/95ca53d18e9044c194d1c61551724f8a )
 
  
 
