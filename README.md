@@ -63,8 +63,7 @@ Multiple Line Chart representing health care expenses estimates for different ag
 [![E1C72807-19E5-4110-B8A0-01C683DA1A25_1_201_a](https://user-images.githubusercontent.com/20228364/235015940-93812dbb-4aa2-4450-bbfd-86439a75f972.jpeg)](https://vizhub.com/khateraAlizada/a260967f52e84d8b8abbef710592c99b?mode=full  )
 
 Multiple Line Chart representing health care expenses estimates for males, females and total (males + female)
-[![C5A99D78-EECF-4CE8-8210-251C523E8E32_1_201_a](https://user-images.githubusercontent.com/20228364/235024004-80ecdb6f-b4ac-4c9e-a37b-093c485e494d.jpeg)]
-(https://vizhub.com/khateraAlizada/83ad4b27fe6b4ec993540153e98a4222?mode=full   )
+[![C5A99D78-EECF-4CE8-8210-251C523E8E32_1_201_a](https://user-images.githubusercontent.com/20228364/235024004-80ecdb6f-b4ac-4c9e-a37b-093c485e494d.jpeg)](https://vizhub.com/khateraAlizada/83ad4b27fe6b4ec993540153e98a4222?mode=full)
 
 Scatte Plots: 
 
