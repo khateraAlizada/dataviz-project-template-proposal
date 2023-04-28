@@ -52,12 +52,12 @@ To display a time series data. I created a year column instead of having separat
 
 Line Charts:
 I also created a line graph. It only displayed one line.
-
-[![line chart multiple line](https://user-images.githubusercontent.com/20228364/235011962-0a0a1286-d97c-40ea-a3b8-fa68ea1f2038.png)](https://vizhub.com/khateraAlizada/95ca53d18e9044c194d1c61551724f8a )
+[![line chart](https://user-images.githubusercontent.com/20228364/235011543-afa18ec8-0f95-48cf-a680-973adc90ca96.png)](   https://vizhub.com/khateraAlizada/b0f45aae21f04eda909ca4960abfd804?edit=files)
 
 I created line chart with multiple lines
+[![line chart multiple line](https://user-images.githubusercontent.com/20228364/235011962-0a0a1286-d97c-40ea-a3b8-fa68ea1f2038.png)](https://vizhub.com/khateraAlizada/95ca53d18e9044c194d1c61551724f8a )
 
-[![line chart](https://user-images.githubusercontent.com/20228364/235011543-afa18ec8-0f95-48cf-a680-973adc90ca96.png)](   https://vizhub.com/khateraAlizada/b0f45aae21f04eda909ca4960abfd804?edit=files)
+
 
 Multiple Line Chart representing health care expenses estimates for different age groups
 [![E1C72807-19E5-4110-B8A0-01C683DA1A25_1_201_a](https://user-images.githubusercontent.com/20228364/235015940-93812dbb-4aa2-4450-bbfd-86439a75f972.jpeg)](https://vizhub.com/khateraAlizada/a260967f52e84d8b8abbef710592c99b?mode=full  )
