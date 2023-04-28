@@ -50,6 +50,20 @@ I made certain changes in my dataset to make it in the correct format. Initially
 
 To display a time series data. I created a year column instead of having separate column for each year. The year column includes all even years between 2002-2014. In addition, I created another column expenditure that stores health expenses estimates. [![reformated dataset](https://user-images.githubusercontent.com/20228364/234731582-e5853cd1-e683-4c5b-926d-d1bf5804186c.png)](https://gist.githubusercontent.com/khateraAlizada/2365f9474eab3f24f42ac5fbe3c18f08/raw/55d654aecbc83d67d25b55b3e2837fbfe349b23d/healthExpensesYear.csv)
 
+Line Charts:
+I also created a line graph. It only displayed one line.
+
+[![line chart](https://user-images.githubusercontent.com/20228364/235011543-afa18ec8-0f95-48cf-a680-973adc90ca96.png)](   https://vizhub.com/khateraAlizada/b0f45aae21f04eda909ca4960abfd804?edit=files)
+
+Multiple Line Chart representing health care expenses estimates for different age groups
+[![E1C72807-19E5-4110-B8A0-01C683DA1A25_1_201_a](https://user-images.githubusercontent.com/20228364/235015940-93812dbb-4aa2-4450-bbfd-86439a75f972.jpeg)](https://vizhub.com/khateraAlizada/a260967f52e84d8b8abbef710592c99b?mode=full  )
+
+Multiple Line Chart representing health care expenses estimates for males, females and total (males + female)
+[![C5A99D78-EECF-4CE8-8210-251C523E8E32_1_201_a](https://user-images.githubusercontent.com/20228364/235024004-80ecdb6f-b4ac-4c9e-a37b-093c485e494d.jpeg)]
+(https://vizhub.com/khateraAlizada/83ad4b27fe6b4ec993540153e98a4222?mode=full   )
+
+Scatte Plots: 
+
 The first data viz I created was a scatter plot without labels.[![scatterplotWithNoLabels](https://user-images.githubusercontent.com/20228364/235009749-3a8025d3-8b85-4bf0-94f9-87c1f7044044.png)](https://vizhub.com/khateraAlizada/472bb9b271114ea6a14102fe2880cef9?edit=files)
 
 Then I created a scatter plot with labels for the axis. The y axis displays health expenses. The x axis displays year. The different colorr dots display gender column (male, female and total). Because there are many rows for each attributes of the gender column. The scatter plot was hard to understand. 
@@ -72,16 +86,7 @@ I created line chart with multiple lines
  
 
 
-Multiple Line Chart representing health care expenses estimates for different age groups
-[![E1C72807-19E5-4110-B8A0-01C683DA1A25_1_201_a](https://user-images.githubusercontent.com/20228364/235015940-93812dbb-4aa2-4450-bbfd-86439a75f972.jpeg)](https://vizhub.com/khateraAlizada/a260967f52e84d8b8abbef710592c99b?mode=full  )
 
-Multiple Line Chart representing health care expenses estimates for males, females and total (males + female)
-[![C5A99D78-EECF-4CE8-8210-251C523E8E32_1_201_a](https://user-images.githubusercontent.com/20228364/235024004-80ecdb6f-b4ac-4c9e-a37b-093c485e494d.jpeg)]
-(https://vizhub.com/khateraAlizada/83ad4b27fe6b4ec993540153e98a4222?mode=full   )
-
-I also created a line graph. It only displayed one line.
-
-[![line chart](https://user-images.githubusercontent.com/20228364/235011543-afa18ec8-0f95-48cf-a680-973adc90ca96.png)](   https://vizhub.com/khateraAlizada/b0f45aae21f04eda909ca4960abfd804?edit=files)
 
 
 
